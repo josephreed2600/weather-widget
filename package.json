@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "logger": "github:josephreed2600/logger#master",
     "node-fetch": "^2.6.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "serve-static": "^1.14.1"
   }
 }
